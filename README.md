@@ -14,7 +14,8 @@ To run:
 8. Enter the ngrok url into the empty text field on the Testbed screen (xxxxxx.ngrok.io) and press "Go".
 
 **convert FBX to VRX**
-\*\*./node_modules/@viro-community/react-viro/bin/ViroFBX path/to/model.fbx path/to/model.vrx\*\*
+Go to:
+`./node_modules/@viro-community/react-viro/bin/ViroFBX path/to/model.fbx path/to/model.vrx`
 
 If you want to build the project into its own app, see instructions for [Xcode](https://docs.viromedia.com/docs/starting-a-new-viro-project-1) or [Android Studio](https://docs.viromedia.com/docs/installing-viro-android).
 
