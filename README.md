@@ -18,7 +18,7 @@ To run:
 - **Go to:**
 
 ```
-./node_modules/@viro-community/react-viro/bin/ViroFBX **abc.fbx** **abc.vrx**
+./node_modules/@viro-community/react-viro/bin/ViroFBX abc.fbx abc.vrx
 ```
 
 Go to:
